@@ -9,9 +9,11 @@ er by an ML model fitted to a 1987 glass database.
 The notebook, DatasetPlayground_interactive_SMOTE.ipynb, can be run interactively on
 https://mybinder.org/v2/gh/joecerniglia/Glass_ML2/HEAD
 
-The link will bring you to the mybinder website. Once you are there perform the follow-
-ing steps:
-1_ Double-click on the notebook file in the left hand pane.
+The link will bring you to the mybinder website. The project may take a minute or so
+to load as the binder installs required packages and instantiates images. Once the 
+link has loaded, perform the following steps to run the code:
+1_ Double-click on the notebook file, DatasetPlayground_interactive_SMOTE, in the left 
+hand pane.
 2_ Click on the double >> at the top of the page to run the code in the notebook.
 3_ As you read the notebook, you will encounter interactive exhibits with instructions 
 on how to use them. The interactive exhibits provide a way for you to verify some of 
@@ -29,7 +31,8 @@ I owe what I have learned to date in machine learning to Dr. Jason Brownlee:
 https://machinelearningmastery.com/machine-learning-with-python/
 
 My ambition is to add to my knowledge in April 2022 when I take the Machine Learning
-course at eCornell as part of the Python 360 certificate program, in which I am now
-enrolled: https://ecornell.cornell.edu/certificates/data-science/
-I also plan to enroll in the eCornell Machine Learning certificate program for 
+course at eCornell as part of the Python Data Science certificate program, in which 
+I am now enrolled: 
+https://ecornell.cornell.edu/certificates/data-science/python-for-data-science/
+I plan to enroll in the eCornell Machine Learning certificate program for 
 2023.
