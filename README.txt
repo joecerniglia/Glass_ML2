@@ -31,7 +31,7 @@ I owe what I have learned to date in machine learning to Dr. Jason Brownlee:
 https://machinelearningmastery.com/machine-learning-with-python/
 
 My ambition is to add to my knowledge in April 2022 when I take the Machine Learning
-course at eCornell as part of the Python Data Science certificate program, in which 
+course at eCornell as part of the Python 360 certificate program, in which 
 I am now enrolled: 
 https://ecornell.cornell.edu/certificates/data-science/python-for-data-science/
 I plan to enroll in the eCornell Machine Learning certificate program for 
