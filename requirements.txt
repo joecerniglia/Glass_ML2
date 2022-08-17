@@ -17,3 +17,4 @@ seaborn==0.10.1
 six==1.15.0               # via cycler, python-dateutil
 sklearn==0.0
 imblearn==0.0
+colorama==0.4.4
