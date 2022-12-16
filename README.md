@@ -13,7 +13,7 @@ https://the-turing-way.netlify.app/welcome.html#
 Many links to related material and source citations can be found in the notebook 
 itself.
 
-Acknowledgements \n
+Acknowledgements /n
 I owe what I have learned to date in machine learning to Dr. Jason Brownlee:
 https://machinelearningmastery.com/machine-learning-with-python/
 
