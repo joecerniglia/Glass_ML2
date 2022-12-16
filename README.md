@@ -18,5 +18,10 @@ I owe what I have learned to date in machine learning to Dr. Jason Brownlee:
 https://machinelearningmastery.com/machine-learning-with-python/
 
 My ambition is to add to my knowledge in April 2022 when I take the Machine Learning course at eCornell as part of the Python 360 certificate program, in which I am now enrolled: 
-https://ecornell.cornell.edu/certificates/data-science/python-for-data-science/
+https://ecornell.cornell.edu/certificates/data-science/python-for-data-science/.
+
+Update, December 2022: <br />
+The paper has now been published by the Turing Data Institute here: <br />
+https://alan-turing-institute.github.io/TuringDataStories-fastpages/amelia%20earhart/fred%20noonan/aviation%20mystery/classification/machine%20learning%20in%20social%20sciences/smote/covariate%20drift/random%20forest/2022/10/14/Glass-ML-20th-Century.html
+
 
