@@ -1,10 +1,6 @@
 I have two main objectives for the Jupyter notebook in this folder:
 1_ Practice maching learning, Python visualizations and Python coding.
-2_ Use data science, specifically Machine Learning (ML) with Python's skikit-learn pack-
-age, to ascertain whether a small semi-opaque glass container found on the island of 
-Nikumaroro in 2010, and possibly belonging to Amelia Earhart, and a jar of similar vintage 
-in the same size and shape (but not color), found on eBay, can be identified as a contain-
-er by an ML model fitted to a 1987 glass database.
+2_ Use data science, specifically Machine Learning (ML) with Python's skikit-learn package, to ascertain whether a small semi-opaque glass container found on the island of Nikumaroro in 2010, and possibly belonging to Amelia Earhart, and a jar of similar vintage in the same size and shape (but not color), found on eBay, can be identified as a container by an ML model fitted to a 1987 glass database.
 
 The notebook, ML_20th_Century.ipynb, can be viewed in NBViewer here:
 https://nbviewer.org/github/joecerniglia/Glass_ML2/blob/main/ML_20th_Century.ipynb
